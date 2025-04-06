@@ -1,4 +1,4 @@
-#include<iosteam>
+#include<iostream>
 int main()
 {
 	//在linux的dev分支进行了添加功能
